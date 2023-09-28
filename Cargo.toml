@@ -1,0 +1,12 @@
+[package]
+name = "moonpack"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+full_moon = "0.18.1"
+glob = "0.3.1"
+globwalk = "0.8.1"
+ramhorns = "0.14.0"
